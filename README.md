@@ -2,7 +2,7 @@
 
 <p align="center">I don't write code — I describe ideas, and an AI agent builds them with me.</p>
 
----
+<br/>
 
 I'm an ENFP idea-person turning curiosity into working software, one conversation with Claude Code at a time.
 
@@ -16,6 +16,6 @@ Currently —
 — collecting small experiments and shipping them here
 — looking for kindred spirits to co-create with
 
----
+<br/>
 
 <p align="center"><i>Ideas are mine. Code is the agent's. The fun is ours.</i></p>
