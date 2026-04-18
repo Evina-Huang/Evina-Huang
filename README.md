@@ -2,6 +2,8 @@
 
 <p align="center">
   <i>一个用 Claude Code 把脑洞变成现实的造梦者 🌈</i>
+  <br/>
+  <sub>Idea-driven · AI-built · ENFP-powered</sub>
 </p>
 
 ---
