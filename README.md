@@ -1,40 +1,29 @@
-<h1 align="center">嗨，我是 Evina ✨</h1>
+<h3 align="center">Hi, I'm Evina.</h3>
 
 <p align="center">
-  <i>一个用 Claude Code 把脑洞变成现实的造梦者 🌈</i>
-  <br/>
-  <sub>Idea-driven · AI-built · ENFP-powered</sub>
+  <sub>I don't write code — I describe ideas, and an AI agent builds them with me.</sub>
 </p>
 
----
+<br/>
 
-### 关于我 🌟
+I'm an ENFP idea-person turning curiosity into working software,
+one conversation with Claude Code at a time.
 
-- 🎨 我**不写代码**——我说出想法，让 AI 帮我把它做出来
-- 💡 我相信：**好奇心 > 技术栈**，每个奇怪的念头都值得被实现
-- 🌻 ENFP，热爱聊天、共创、把"如果……会怎样？"变成"看，它真的可以！"
-- 🚀 这里会陆续放上我和 Claude 一起做的小玩意儿，欢迎围观
+No tech stack to list. No years of experience to claim.
+Just this: *if I can describe it clearly, we can probably build it.*
 
----
+<br/>
 
-### 我的工作方式 🛠️
+###### Currently
 
-```text
-我：「我有一个想法 💭」
-Claude Code：「让我们把它做出来吧 ⚡」
-我们：「又上线了一个东西 🎉」
-```
+— learning to direct code in plain language
+— collecting small experiments and shipping them here
+— looking for kindred spirits to co-create with
 
----
-
-### 正在……
-
-- 🌱 学着用自然语言"指挥"代码
-- 🤝 寻找想一起共创点什么的有趣灵魂
-- ☕ 永远欢迎来打个招呼，哪怕只是聊聊天
+<br/>
 
 ---
 
 <p align="center">
-  <i>"想法是我的，代码是 AI 的，乐趣是我们的。"</i> 💫
+  <sub><i>Ideas are mine. Code is the agent's. The fun is ours.</i></sub>
 </p>
