@@ -2,7 +2,7 @@
 
 I don't write code — I describe ideas, and an AI agent builds them with me.
 
-I'm an ENFP idea-person turning curiosity into working software, one conversation with Claude Code at a time.
+I'm an ENFP idea-person turning curiosity into working software, one conversation with coding agent at a time.
 
 No tech stack to list. No years of experience to claim. Just this: *if I can describe it clearly, we can probably build it.* 🌱
 
